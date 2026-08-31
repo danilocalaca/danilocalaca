@@ -6,8 +6,6 @@ Me chamo Danilo Calaça, tenho 17 anos e sou natural de Pernambuco. Atualmente, 
 
 ---
 
-</br>
-
 ## 🤖 Linguagens e Tecnologias
 
 
