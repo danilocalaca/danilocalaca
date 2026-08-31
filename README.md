@@ -4,7 +4,7 @@
 
 Me chamo Danilo Calaça, tenho 17 anos e sou natural de Pernambuco. Atualmente, estou cursando o ensino médio e venho me desenvolvendo cada vez mais na área de tecnologia, com foco em desenvolvimento web e UX/UI Design. Sou desenvolvedor Full Stack, com maior experiência em Front-End, especialmente com HTML e CSS, além de conhecimentos básicos em JavaScript e Python. Gosto de aprender na prática, criando projetos e buscando constantemente aprimorar minhas habilidades. Também tenho experiência com ferramentas como Figma e interesse em continuar evoluindo tanto no desenvolvimento de interfaces quanto na parte de Back-End. Meu objetivo é seguir me desenvolvendo na área de tecnologia e, futuramente, atuar profissionalmente como desenvolvedor Full Stack.
 
-
+<br/>
 ---
 
 ## 🤖 Linguagens e Tecnologias
